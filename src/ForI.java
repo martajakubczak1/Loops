@@ -1,4 +1,4 @@
-public class Main {
+public class ForI {
     public static void main(String[] args) {
         //For loop
         String[] cars=new String[]{"Audi", "BMW", "Mercedes", "Toyota"};
